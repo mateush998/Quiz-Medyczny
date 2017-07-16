@@ -1,0 +1,12 @@
+c:\users\misiak-pc\documents\visual studio 2013\Projects\pytania_quiz\pytania_quiz\obj\Debug\pytania_quiz.csprojResolveAssemblyReference.cache
+c:\users\misiak-pc\documents\visual studio 2013\Projects\pytania_quiz\pytania_quiz\obj\Debug\pytania_quiz.Form1.resources
+c:\users\misiak-pc\documents\visual studio 2013\Projects\pytania_quiz\pytania_quiz\obj\Debug\pytania_quiz.Properties.Resources.resources
+c:\users\misiak-pc\documents\visual studio 2013\Projects\pytania_quiz\pytania_quiz\obj\Debug\pytania_quiz.csproj.GenerateResource.Cache
+c:\users\misiak-pc\documents\visual studio 2013\Projects\pytania_quiz\pytania_quiz\obj\Debug\pytania_quiz.Form1.af-ZA.resources
+C:\Users\Misiak-PC\documents\visual studio 2013\Projects\pytania_quiz\pytania_quiz\bin\Debug\Test Egzamin Dyplomowy 2017.exe.config
+C:\Users\Misiak-PC\documents\visual studio 2013\Projects\pytania_quiz\pytania_quiz\bin\Debug\Test Egzamin Dyplomowy 2017.exe
+C:\Users\Misiak-PC\documents\visual studio 2013\Projects\pytania_quiz\pytania_quiz\bin\Debug\Test Egzamin Dyplomowy 2017.pdb
+C:\Users\Misiak-PC\documents\visual studio 2013\Projects\pytania_quiz\pytania_quiz\bin\Debug\af-ZA\Test Egzamin Dyplomowy 2017.resources.dll
+C:\Users\Misiak-PC\documents\visual studio 2013\Projects\pytania_quiz\pytania_quiz\obj\Debug\af-ZA\Test Egzamin Dyplomowy 2017.resources.dll
+C:\Users\Misiak-PC\documents\visual studio 2013\Projects\pytania_quiz\pytania_quiz\obj\Debug\Test Egzamin Dyplomowy 2017.exe
+C:\Users\Misiak-PC\documents\visual studio 2013\Projects\pytania_quiz\pytania_quiz\obj\Debug\Test Egzamin Dyplomowy 2017.pdb
